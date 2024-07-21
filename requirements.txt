@@ -1,0 +1,9 @@
+MinkowskiEngine==0.5.4
+networkx==2.6.3
+numpy==1.21.6
+pytorch_lightning==1.9.4
+scipy==1.7.3
+Shapely==2.0.5
+torch==1.13.1
+tqdm==4.65.0
+warmup_scheduler==0.3.2
