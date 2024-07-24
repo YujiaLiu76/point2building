@@ -53,10 +53,10 @@ To visual the results of the region, run:
 
 ## Downloads
 
-For training and testing, you can download the following resources from [link](https://drive.google.com/file/d/1WnnaYfMh2lUIcvd575Q1Lpwc56h2j0rb/view?usp=share_link)
+For training and testing, you can download the following resources from [link](https://drive.google.com/file/d/1DJRQ6uwvFmM4fiaoeURsxSYjTvPcJIym/view?usp=share_link)
 - Processed Dataset: A ready-to-use dataset specifically processed for this project.
 - Pre-trained Models: Pre-trained models to facilitate immediate testing and evaluation.
-- Visualized Results: Examples of visualized results of one run from the model for reference.
+- Visualized Results: Examples of visualized results from the models for reference.
 
 ## Acknowledgements
 
